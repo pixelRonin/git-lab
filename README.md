@@ -2,3 +2,6 @@
 A practice repository for learning fundamental for git and gitHub such as add, commit, push, pull, etc.
 
 ## Author: Colleone Lapun
+
+## Description
+This is a simple Git lab to practice basic Git and Github commands.
